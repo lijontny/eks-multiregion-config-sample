@@ -1,0 +1,1 @@
+# eks-multiregion-config-sample
